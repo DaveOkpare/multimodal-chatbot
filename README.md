@@ -1,2 +1,2 @@
-# multimodal-chatbot
-A chatbot that understands and replies with text, images, videos, audios
+# MultiModalBot
+A chatbot that understands and replies with text, images, videos, and audio.
